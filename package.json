@@ -1,0 +1,9 @@
+{
+  "name": "Handler",
+  "version": "1.0.0",
+  "description": "Handler ex , bot para servidores de discord",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+  }
+}
